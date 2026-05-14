@@ -1,64 +1,60 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1d4ed8,100:7c3aed&text=Madhur%20Mishra&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=code%20.%20science%20.%20systems%20.%20slightly%20too%20ambitious%20ideas&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1D4ED8,100:7C3AED&text=Madhur%20Mishra&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Student%20Developer%20%7C%20Education-Tech%20%7C%20AI%20Tools%20%7C%20Hardware%20Systems&descAlignY=60&descSize=16" />
 
 <a href="https://github.com/MadhurMishraX">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&center=true&vCenter=true&width=950&lines=student+dev+from+india;building+education-tech+%2B+hardware+systems;react+%7C+typescript+%7C+supabase+%7C+arduino;turning+random+late-night+ideas+into+repos" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&center=true&vCenter=true&width=950&lines=Student+Developer+from+India;Building+Education-Tech+and+Hardware-Integrated+Systems;React+%7C+TypeScript+%7C+Supabase+%7C+Arduino;Focused+on+Useful+Software%2C+Clean+Design%2C+and+Real+Execution" alt="Typing introduction" />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=MadhurMishraX&label=visitors&color=2563eb&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/status-building-16a34a?style=flat" alt="status building" />
-<img src="https://img.shields.io/badge/focus-education%20tech-7c3aed?style=flat" alt="education tech" />
-<img src="https://img.shields.io/badge/hardware-Arduino%20%2B%20ESP32-f97316?style=flat" alt="hardware" />
-<img src="https://img.shields.io/badge/from-India-0f766e?style=flat" alt="india" />
+<img src="https://komarev.com/ghpvc/?username=MadhurMishraX&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Building-16A34A?style=flat" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Education--Tech-7C3AED?style=flat" alt="Education Technology" />
+<img src="https://img.shields.io/badge/Hardware-Arduino%20%2B%20ESP32-F97316?style=flat" alt="Hardware" />
+<img src="https://img.shields.io/badge/Location-India-0F766E?style=flat" alt="India" />
 
 </div>
 
 ---
 
-### hey, i am madhur
+## About Me
 
-I like building things that start as:
+I am a student developer from India, building projects around education, productivity, AI-assisted tools, and hardware-integrated systems.
 
-```txt
-"wait... can this actually be made?"
-```
-
-Most of my projects sit somewhere between study tools, dashboards, automation, hardware experiments, and slightly overcooked ideas that I still try to make real.
+My main interest is in creating software that solves real problems instead of only looking good in a demo. I enjoy working on systems that connect dashboards, data, automation, and physical hardware.
 
 ```txt
-current zone:
-  education systems   -> dashboards, study vaults, leaderboards, assignments
-  hardware + web      -> Arduino, ESP32, RFID, Web Serial API
-  productivity tools  -> time tracking, study workflows, self-improvement stuff
-  AI experiments      -> useful tools first, hype later
+Current Focus
+
+Education Systems     -> Dashboards, assignments, study vaults, analytics, LaTeX support
+Hardware + Web        -> Arduino, ESP32, RFID, Web Serial API
+Productivity Tools    -> Time tracking, study workflows, progress systems
+AI Experiments        -> Practical tools before hype
 ```
 
-Not pretending to know everything.  
-Just building, breaking, fixing, learning, repeating.
+I am still learning, but I like building seriously. The goal is simple: create useful systems, improve them, and keep raising the standard.
 
 ---
 
-### stuff i am building
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### antesia
+### Antesia
 
-A student-teacher command center for school work.
+A student-teacher academic command center designed for structured learning and performance tracking.
 
-It has dashboards, XP, ranks, streaks, study vaults, assignment flows, LaTeX support, analytics, and Supabase in the back. Basically, a school system I wish existed.
+It includes student dashboards, XP systems, ranks, streaks, study vaults, assignment flows, LaTeX support, analytics, and a Supabase backend.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 <a href="https://github.com/MadhurMishraX/antesia-one">
@@ -68,17 +64,17 @@ It has dashboards, XP, ranks, streaks, study vaults, assignment flows, LaTeX sup
 </td>
 <td width="50%" valign="top">
 
-#### H.E.A.L.E.R - A.P.S
+### H.E.A.L.E.R - A.P.S
 
-A school-focused medical kiosk concept.
+A school-focused medical kiosk concept with diagnosis-flow logic, RFID/QR access, inventory tracking, hardware control, and offline-first storage.
 
-It mixes diagnosis-flow logic, medicine inventory, RFID/QR access, offline storage, hardware control, and a real kiosk-style workflow. The fun part is that it is not just UI. It talks to hardware.
+The project combines a web interface with real hardware communication, making it more than a simple frontend prototype.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Serial-4285F4?style=flat&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Serial%20API-4285F4?style=flat&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Dexie.js-5A29E4?style=flat" />
 </p>
 
@@ -92,11 +88,9 @@ It mixes diagnosis-flow logic, medicine inventory, RFID/QR access, offline stora
 <tr>
 <td width="50%" valign="top">
 
-#### H.E.A.L.E.R
+### H.E.A.L.E.R
 
-The wider experimental version of the medical kiosk idea.
-
-Browser-to-hardware control, ESP32 bridge work, RFID flow, patient dashboard, admin tools, and serial communication experiments.
+An experimental version of the medical kiosk system with browser-to-hardware control, ESP32 bridge work, RFID flow, patient dashboards, admin tools, and serial communication experiments.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -112,15 +106,15 @@ Browser-to-hardware control, ESP32 bridge work, RFID flow, patient dashboard, ad
 </td>
 <td width="50%" valign="top">
 
-#### TimeTracker Pro
+### TimeTracker Pro
 
-A clean little productivity app for seeing where the day disappears.
+A productivity-focused time tracking application for analyzing daily activity patterns.
 
-Live timer, activity history, rankings, analytics, export, and local storage. Simple idea, useful result.
+It includes live tracking, activity history, rankings, analytics, local storage, and data export.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/LocalStorage-111827?style=flat" />
 </p>
 
@@ -134,7 +128,7 @@ Live timer, activity history, rankings, analytics, export, and local storage. Si
 
 ---
 
-### current toolbox
+## Technology Stack
 
 <div align="center">
 
@@ -143,16 +137,16 @@ Live timer, activity history, rankings, analytics, export, and local storage. Si
 </div>
 
 ```txt
-frontend       React, TypeScript, Vite, Tailwind
-backend/data   Supabase, SQLite, Dexie, IndexedDB
-hardware       Arduino Mega, ESP32, RFID, Web Serial API
-tools          Git, GitHub, Vercel, npm
-learning       AI-assisted apps, scientific computing, better system design
+Frontend        React, TypeScript, Vite, TailwindCSS
+Backend/Data    Supabase, SQLite, Dexie, IndexedDB
+Hardware        Arduino Mega, ESP32, RFID, Web Serial API
+Tools           Git, GitHub, Vercel, npm
+Learning        AI-assisted applications, scientific computing, system design
 ```
 
 ---
 
-### github cockpit
+## GitHub Analytics
 
 <div align="center">
 
@@ -167,13 +161,13 @@ learning       AI-assisted apps, scientific computing, better system design
 <br />
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhurMishraX&theme=react-dark&hide_border=true&area=true&custom_title=real%20commit%20graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhurMishraX&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
 
-### trophies, but chill
+## GitHub Trophies
 
 <div align="center">
 
@@ -183,47 +177,47 @@ learning       AI-assisted apps, scientific computing, better system design
 
 ---
 
-### contribution snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MadhurMishraX/MadhurMishraX/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" />
+<img src="https://raw.githubusercontent.com/MadhurMishraX/MadhurMishraX/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
 ---
 
-### mini lab notebook
+## Development Notes
 
 <details>
-<summary>what i like building</summary>
+<summary>What I Like Building</summary>
 
 ```txt
-1. tools that make studying less messy
-2. dashboards that show progress clearly
-3. systems where software touches hardware
-4. apps that feel useful, not just pretty
-5. experiments that look impossible at first
+1. Tools that make studying and revision more organized
+2. Dashboards that show progress clearly
+3. Systems where software interacts with hardware
+4. Applications that are useful before they are decorative
+5. Projects that begin as difficult ideas and become working prototypes
 ```
 
 </details>
 
 <details>
-<summary>what i am trying to get better at</summary>
+<summary>What I Am Improving</summary>
 
 ```txt
-1. writing cleaner code
-2. making projects easier to run
-3. designing better databases
-4. documenting without sounding like a robot
-5. finishing ideas before jumping to ten new ones
+1. Writing cleaner and more maintainable code
+2. Making projects easier to run and understand
+3. Designing better database structures
+4. Writing documentation that is clear and practical
+5. Completing projects with stronger polish and consistency
 ```
 
 </details>
 
 ---
 
-### connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/MadhurMishraX">
@@ -237,9 +231,9 @@ learning       AI-assisted apps, scientific computing, better system design
 <div align="center">
 
 ```txt
-build it small -> make it work -> make it useful -> then make it beautiful
+Build small. Make it work. Make it useful. Then make it beautiful.
 ```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:7c3aed,50:1d4ed8,100:020617&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:7C3AED,50:1D4ED8,100:020617&section=footer" />
